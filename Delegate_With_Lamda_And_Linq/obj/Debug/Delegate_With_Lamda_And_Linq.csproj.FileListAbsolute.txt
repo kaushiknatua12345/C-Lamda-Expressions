@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\bin\Debug\Delegate_With_Lamda_And_Linq.exe.config
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\bin\Debug\Delegate_With_Lamda_And_Linq.exe
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\bin\Debug\Delegate_With_Lamda_And_Linq.pdb
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\obj\Debug\Delegate_With_Lamda_And_Linq.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\obj\Debug\Delegate_With_Lamda_And_Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\obj\Debug\Delegate_With_Lamda_And_Linq.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\obj\Debug\Delegate_With_Lamda_And_Linq.exe
+C:\Users\knatua\source\repos\Delegate_With_Lamda_And_Linq\obj\Debug\Delegate_With_Lamda_And_Linq.pdb

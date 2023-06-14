@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\bin\Debug\Delegate_SimpleExample.exe.config
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\bin\Debug\Delegate_SimpleExample.exe
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\bin\Debug\Delegate_SimpleExample.pdb
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\obj\Debug\Delegate_SimpleExample.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\obj\Debug\Delegate_SimpleExample.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\obj\Debug\Delegate_SimpleExample.exe
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\obj\Debug\Delegate_SimpleExample.pdb
+C:\Users\knatua\source\repos\Delegate_SimpleExample\Delegate_SimpleExample\obj\Debug\Delegate_SimpleExample.csproj.SuggestedBindingRedirects.cache

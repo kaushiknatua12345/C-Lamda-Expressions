@@ -1,0 +1,7 @@
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\bin\Debug\ListOfClassObject_WithLinq.exe.config
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\bin\Debug\ListOfClassObject_WithLinq.exe
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\bin\Debug\ListOfClassObject_WithLinq.pdb
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\obj\Debug\ListOfClassObject_WithLinq.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\obj\Debug\ListOfClassObject_WithLinq.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\obj\Debug\ListOfClassObject_WithLinq.exe
+C:\Users\knatua\source\repos\ListOfClassObject_WithLinq\ListOfClassObject_WithLinq\obj\Debug\ListOfClassObject_WithLinq.pdb

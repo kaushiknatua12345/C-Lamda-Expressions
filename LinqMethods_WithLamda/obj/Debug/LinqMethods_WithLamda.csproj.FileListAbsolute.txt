@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\bin\Debug\LinqMethods_WithLamda.exe.config
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\bin\Debug\LinqMethods_WithLamda.exe
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\bin\Debug\LinqMethods_WithLamda.pdb
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\obj\Debug\LinqMethods_WithLamda.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\obj\Debug\LinqMethods_WithLamda.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\obj\Debug\LinqMethods_WithLamda.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\obj\Debug\LinqMethods_WithLamda.exe
+C:\Users\knatua\source\repos\LinqMethods_WithLamda\obj\Debug\LinqMethods_WithLamda.pdb

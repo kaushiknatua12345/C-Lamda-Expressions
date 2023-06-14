@@ -1,0 +1,7 @@
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\obj\Debug\LinqQuery_AndLamdaExample1.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\obj\Debug\LinqQuery_AndLamdaExample1.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\bin\Debug\LinqQuery_AndLamdaExample1.exe.config
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\bin\Debug\LinqQuery_AndLamdaExample1.exe
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\bin\Debug\LinqQuery_AndLamdaExample1.pdb
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\obj\Debug\LinqQuery_AndLamdaExample1.exe
+C:\Users\knatua\source\repos\LinqQuery_AndLamdaExample1\LinqQuery_AndLamdaExample1\obj\Debug\LinqQuery_AndLamdaExample1.pdb

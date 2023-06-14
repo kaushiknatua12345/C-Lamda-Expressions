@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Lamda_Example3\bin\Debug\Lamda_Example3.exe.config
+C:\Users\knatua\source\repos\Lamda_Example3\bin\Debug\Lamda_Example3.exe
+C:\Users\knatua\source\repos\Lamda_Example3\bin\Debug\Lamda_Example3.pdb
+C:\Users\knatua\source\repos\Lamda_Example3\obj\Debug\Lamda_Example3.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Lamda_Example3\obj\Debug\Lamda_Example3.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\Lamda_Example3\obj\Debug\Lamda_Example3.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Lamda_Example3\obj\Debug\Lamda_Example3.exe
+C:\Users\knatua\source\repos\Lamda_Example3\obj\Debug\Lamda_Example3.pdb

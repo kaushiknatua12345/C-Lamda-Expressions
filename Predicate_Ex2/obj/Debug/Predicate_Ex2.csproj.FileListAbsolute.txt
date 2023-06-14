@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Predicate_Ex2\bin\Debug\Predicate_Ex2.exe.config
+C:\Users\knatua\source\repos\Predicate_Ex2\bin\Debug\Predicate_Ex2.exe
+C:\Users\knatua\source\repos\Predicate_Ex2\bin\Debug\Predicate_Ex2.pdb
+C:\Users\knatua\source\repos\Predicate_Ex2\obj\Debug\Predicate_Ex2.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Predicate_Ex2\obj\Debug\Predicate_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\Predicate_Ex2\obj\Debug\Predicate_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Predicate_Ex2\obj\Debug\Predicate_Ex2.exe
+C:\Users\knatua\source\repos\Predicate_Ex2\obj\Debug\Predicate_Ex2.pdb

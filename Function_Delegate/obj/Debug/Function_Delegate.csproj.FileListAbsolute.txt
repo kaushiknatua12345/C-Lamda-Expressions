@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Function_Delegate\bin\Debug\Function_Delegate.exe.config
+C:\Users\knatua\source\repos\Function_Delegate\bin\Debug\Function_Delegate.exe
+C:\Users\knatua\source\repos\Function_Delegate\bin\Debug\Function_Delegate.pdb
+C:\Users\knatua\source\repos\Function_Delegate\obj\Debug\Function_Delegate.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Function_Delegate\obj\Debug\Function_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\Function_Delegate\obj\Debug\Function_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Function_Delegate\obj\Debug\Function_Delegate.exe
+C:\Users\knatua\source\repos\Function_Delegate\obj\Debug\Function_Delegate.pdb

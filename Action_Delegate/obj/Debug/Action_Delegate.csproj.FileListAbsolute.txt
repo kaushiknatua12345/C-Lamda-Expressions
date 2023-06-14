@@ -1,0 +1,8 @@
+C:\Users\knatua\source\repos\Action_Delegate\bin\Debug\Action_Delegate.exe.config
+C:\Users\knatua\source\repos\Action_Delegate\bin\Debug\Action_Delegate.exe
+C:\Users\knatua\source\repos\Action_Delegate\bin\Debug\Action_Delegate.pdb
+C:\Users\knatua\source\repos\Action_Delegate\obj\Debug\Action_Delegate.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\Action_Delegate\obj\Debug\Action_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\knatua\source\repos\Action_Delegate\obj\Debug\Action_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\Action_Delegate\obj\Debug\Action_Delegate.exe
+C:\Users\knatua\source\repos\Action_Delegate\obj\Debug\Action_Delegate.pdb
